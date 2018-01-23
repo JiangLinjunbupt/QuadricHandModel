@@ -1,7 +1,7 @@
 // Camera.cpp: implementation of the Camera class.
 //
 //////////////////////////////////////////////////////////////////////
-
+///
 #include "stdafx.h"
 #include "Htouch.h"
 #include "Camera.h"
