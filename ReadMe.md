@@ -15,3 +15,10 @@ In the main panel, use Ctrl+mouse wheel to change distance, and use left mouse t
 You can also change the values of the 27 DoFs of the hand model and generate the synthesis images. 0-2 is for hand translation, 3-5 is for global hand rotation and 6-26 is for local finger articulations. You can either increase or decrease their values in the panel. 
 
 For questions and comments: hliang1@e.ntu.edu.sg or shrekei@hotmail.com
+
+
+
+Makesure you download this project throght git,not Download.zip.
+
+and you should reconfig your boost/opencv/opengl(glut and glew).
+and question please contact me at J785137381@gmail.com
