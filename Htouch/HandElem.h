@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 #include <iostream>
-#include <glut.h>
+#include <GL/glut.h>
 #include "Tree.h"
 #include "Tokenizer.h"
 #include "../MathUtilities/Matrix44.h"

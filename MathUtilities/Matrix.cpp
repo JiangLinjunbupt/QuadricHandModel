@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
-
+#include<algorithm>
 #define SWAP(a,b) {temp=a;a=b;b=temp;}
 #define SIGN(a,b) ((b) >= 0.0 ? fabs(a) : -fabs(a))
 static double sqrarg;

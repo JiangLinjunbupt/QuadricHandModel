@@ -7,7 +7,7 @@
 #include "afxdialogex.h"
 #include "ConsolePrinter.h"
 #include <sys/timeb.h>
-
+#include<opencv.hpp>
 // CShowModelPanel dialog/////////////////////////////////////////////////////////////////////////////
 extern CConsolePrinter *g_pCslPrt;
 

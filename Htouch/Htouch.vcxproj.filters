@@ -65,9 +65,6 @@
     <ClInclude Include="Tokenizer.h">
       <Filter>Hand Modeling\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Hand.h">
-      <Filter>Hand Modeling\Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="HandProjector.h">
       <Filter>Hand Modeling\Header Files</Filter>
     </ClInclude>

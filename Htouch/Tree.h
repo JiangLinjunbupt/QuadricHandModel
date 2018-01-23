@@ -1,7 +1,7 @@
 #pragma once
 #include <list>  
 #include <algorithm>
-#include <glut.h>
+#include <Gl/glut.h>
 
 template<class T> class TreeNode;
 template<class T> class Tree; 

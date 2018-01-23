@@ -1,6 +1,6 @@
 // Matrix44.h: interface for the Matrix44 class.
 #pragma once
-#include <glut.h>
+#include <GL/glut.h>
 #include "Vector4.h"
 
 namespace bmu

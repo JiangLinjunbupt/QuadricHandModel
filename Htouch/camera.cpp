@@ -9,7 +9,7 @@
 #include <math.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
-#include <glut.h>
+#include <GL/glut.h>
 
 #ifdef _DEBUG
 #undef THIS_FILE

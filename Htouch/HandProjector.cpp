@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "HandProjector.h"
 #include <omp.h>
-
+#include<opencv.hpp>
 Pixel::Pixel(void) : Center(0, 0)
 {	
 	IsForegrd = false;
