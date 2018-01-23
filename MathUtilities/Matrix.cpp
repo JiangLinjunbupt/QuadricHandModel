@@ -14,7 +14,7 @@ static int32_t iminarg1,iminarg2;
 
 using namespace std;
 using namespace bmu;
-
+//注释
 Matrix::Matrix () 
 {
 	m   = 0;
