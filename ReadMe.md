@@ -22,3 +22,6 @@ Makesure you download this project throght git,not Download.zip.
 
 and you should reconfig your boost/opencv/opengl(glut and glew).
 and question please contact me at J785137381@gmail.com
+
+
+the vedio is show :https://www.youtube.com/watch?v=pTHs7IyNWts
